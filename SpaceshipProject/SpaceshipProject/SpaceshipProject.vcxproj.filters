@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\builder">
+      <UniqueIdentifier>{73fc2e3f-49c0-44a0-bc90-e853df127ff2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\builder">
+      <UniqueIdentifier>{aeee9d32-7c6a-4fca-8aa4-700843d459b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\factory">
+      <UniqueIdentifier>{3176cf3c-5aa6-44b7-8124-d84ccdbda787}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\factory">
+      <UniqueIdentifier>{9cdeb6fe-b4b9-475f-a3e3-0ba128d1852a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="StandartEngine.cpp">
+      <Filter>Исходные файлы\factory</Filter>
+    </ClCompile>
+    <ClCompile Include="SuperEngine.cpp">
+      <Filter>Исходные файлы\factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Radar.cpp">
+      <Filter>Исходные файлы\factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Spaceship.cpp">
+      <Filter>Исходные файлы\builder</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceshipBuilder.cpp">
+      <Filter>Исходные файлы\builder</Filter>
+    </ClCompile>
+    <ClCompile Include="Armament.cpp">
+      <Filter>Исходные файлы\factory</Filter>
+    </ClCompile>
+    <ClCompile Include="Frame.cpp">
+      <Filter>Исходные файлы\factory</Filter>
+    </ClCompile>
+    <ClCompile Include="LandingModule.cpp">
+      <Filter>Исходные файлы\factory</Filter>
+    </ClCompile>
+    <ClCompile Include="LivingModule.cpp">
+      <Filter>Исходные файлы\factory</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArmamentTypes.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="ShipsTypes.h">
+      <Filter>Файлы заголовков\builder</Filter>
+    </ClInclude>
+    <ClInclude Include="Factory.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Frame.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="StandardEngine.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperEngine.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Radar.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="LivingModule.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="LandingModule.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Armament.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="ModulesFactory1.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="ModulesFactory2.h">
+      <Filter>Файлы заголовков\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="IBuilder.h">
+      <Filter>Файлы заголовков\builder</Filter>
+    </ClInclude>
+    <ClInclude Include="DestinationTypes.h">
+      <Filter>Файлы заголовков\builder</Filter>
+    </ClInclude>
+    <ClInclude Include="Spaceship.h">
+      <Filter>Файлы заголовков\builder</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceshipBuilder.h">
+      <Filter>Файлы заголовков\builder</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
