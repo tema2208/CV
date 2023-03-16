@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Пользователь\Desktop\MyRepos\ChessAlgorithm\ChessAlgorithm\main.c(232,38): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Пользователь\Desktop\MyRepos\ChessAlgorithm\ChessAlgorithm\main.c(232,103): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Пользователь\Desktop\MyRepos\ChessAlgorithm\ChessAlgorithm\main.c(232,100): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Пользователь\Desktop\MyRepos\ChessAlgorithm\ChessAlgorithm\main.c(232,75): warning C4101: l: неиспользованная локальная переменная
+  ChessAlgorithm.vcxproj -> C:\Users\Пользователь\Desktop\MyRepos\ChessAlgorithm\Debug\ChessAlgorithm.exe

@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(157,27): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(157,21): warning C4024: strcmp: различные типы для формального и фактического параметров 1
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(163,45): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(163,39): warning C4024: strcmp: различные типы для формального и фактического параметров 1
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(200,20): warning C4022: free: несоответствие указателя для фактического параметра 1
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(218,28): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(218,22): warning C4024: strcmp: различные типы для формального и фактического параметров 1
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(220,28): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "int"
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(220,22): warning C4024: strcmp: различные типы для формального и фактического параметров 1
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(300,11): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\GraphAlgorithm\main.c(301,9): warning C4101: count: неиспользованная локальная переменная
+  GraphAlgorithm.vcxproj -> C:\Users\Пользователь\Desktop\MyRepos\GraphAlgorithm\Debug\GraphAlgorithm.exe
